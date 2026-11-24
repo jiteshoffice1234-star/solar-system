@@ -5,7 +5,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Android%20%7C%20Web%20%7C%20PWA-green)
 ![License](https://img.shields.io/badge/license-MIT-orange)
-![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![Build](https://github.com/jiteshoffice1234-star/solar-system/actions/workflows/build-apk.yml/badge.svg)
 
 ## 📱 Get the APK
 
