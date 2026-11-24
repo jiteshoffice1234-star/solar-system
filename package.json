@@ -1,5 +1,5 @@
 {
-  "name": "sandbox-workspace",
+  "name": "solar-system",
   "private": true,
   "type": "module",
   "scripts": {
@@ -19,7 +19,6 @@
     "date-fns": "^2.30.0",
     "framer-motion": "^11.16.1",
     "lucide-react": "^0.294.0",
-    "npx": "^10.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.8.0",
